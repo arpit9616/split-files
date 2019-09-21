@@ -1,0 +1,7 @@
+{
+    "extension": ".docx",
+    "targetDIR": "./files",
+    "separator": "-----",
+    "infoLogPath": "./logs/info.log.ndjson",
+    "errorLogPath": "./logs/error.log.ndjson"
+}
